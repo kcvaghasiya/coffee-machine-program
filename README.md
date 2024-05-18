@@ -36,7 +36,8 @@ Make sure you have Python installed on your machine. You can download it from [p
       - Make payment for purchased coffee and calculate profit.
       - Enjoy your delicious coffee!
 
-   ![Snake Game Demo](sample-code.png)
+   ![Coffee machine Demo](sample-code.png)
+   ![Coffee machine Output](result.png)
 
 ## Contributing
 If you'd like to contribute to the project, feel free to open issues or submit pull requests.
